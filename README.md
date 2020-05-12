@@ -12,7 +12,7 @@
 - Web
     - Nginx - Alpine
         - General
-            - [x] [base_web_nginxs](https://github.com/ctfhub-team/base_web_nginxs)
+            - [x] [base_web_nginx](https://github.com/ctfhub-team/base_web_nginx)
         - PHP-FPM - [Example/Demo](https://github.com/ctfhub-team/challenge_pwnhub_2017_web_open_weekday)
             - [x] [base_web_nginx_php_56](https://github.com/ctfhub-team/base_web_nginx_php_56)
             - [x] [base_web_nginx_php_74](https://github.com/ctfhub-team/base_web_nginx_php_74)
@@ -30,8 +30,8 @@
             - [x] [base_web_httpd_mysql_php_74](https://github.com/ctfhub-team/base_web_httpd_mysql_php_74)
     - Python - Alpine
         - Gunicron - [Example/Demo](https://github.com/ctfhub-team/challenge_ddctf_2019_web_homebrew_event_loop_base)
-            - [x] [base_web_gunicron_python_27](https://github.com/ctfhub-team/base_web_gunicron_python_27)
-            - [x] [base_web_gunicron_python_36](https://github.com/ctfhub-team/base_web_gunicron_python_36)
+            - [x] [base_web_gunicorn_python_27](https://github.com/ctfhub-team/base_web_gunicorn_python_27)
+            - [x] [base_web_gunicorn_python_36](https://github.com/ctfhub-team/base_web_gunicorn_python_36)
         - Supervisor
             - [x] [base_web_supervisor_python_27](https://github.com/ctfhub-team/base_web_supervisor_python_27)
             - [x] [base_web_supervisor_python_36](https://github.com/ctfhub-team/base_web_supervisor_python_36)
